@@ -1,0 +1,1 @@
+export default function MarketingPlanGenerator() { return null; }
