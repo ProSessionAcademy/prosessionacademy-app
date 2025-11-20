@@ -1,0 +1,45 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "prosessionacademy",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "prosessionacademy",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6900f95cd2fdf6f6761e2df5/ed8ab4501_logo-search-grid-2x.png",
+      "type": "image/png",
+      "sizes": "600x480",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 600,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://prosessionacademy.com/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "600x480",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 600,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "business",
+    "education",
+    "entertainment",
+    "productivity"
+  ]
+}
